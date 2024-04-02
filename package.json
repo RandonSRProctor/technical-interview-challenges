@@ -1,0 +1,16 @@
+{
+  "name": "technical-interview-challenges",
+  "version": "1.0.0",
+  "description": "A collection of technical interview challenges",
+  "main": "multiply.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test:multiply": "node multiply/tests/runTests.js"
+  },
+  "keywords": [],
+  "author": "Randon SR Proctor",
+  "license": "ISC"
+}
