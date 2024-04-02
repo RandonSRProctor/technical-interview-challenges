@@ -22,4 +22,4 @@ Instructions:
 - Write code within the body of the function so that the returned value is functionally equivilant to that of the `*` operator
 - Keep your work within the body of the function
 - Your code cannot depend on the `*` operator to find the product, but all other operators and JS syntax is allowed
-- To test your function, run this command from the root of the project: `npm test:multiply`
+- To test your function, run this command from the root of the project: `npm run test:multiply`
